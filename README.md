@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Pablo
 
-I'm Pablo, a Senior Android Engineer who loves all things Android, especially Jetpack Compose and design systems.
+I'm a Senior Android Engineer who loves all things Android, especially Jetpack Compose and design systems.
 
 My public GitHub is where I keep Android experiments, templates, and write-up companion projects around modern Android development.
 
